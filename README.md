@@ -6,12 +6,12 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 **Follow these steps to set up and work on your project:**
 
-* [ ] Create a forked copy of this project.
-* [ ] Add your project manager as collaborator on Github.
-* [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-* [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-* [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-* [ ] Push commits: git push origin `<firstName-lastName>`.
+* [X] Create a forked copy of this project.
+* [X] Add your project manager as collaborator on Github.
+* [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+* [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+* [X] Push commits: git push origin `<firstName-lastName>`.
 
 **Follow these steps for completing your project.**
 
@@ -34,10 +34,10 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 ## Task 2: Create Unique Event Listeners
 
 * [ ] Using your [index.js file](js/index.js), create 10 [unique event listeners](https://developer.mozilla.org/en-US/docs/Web/Events). using your creativity to make the Fun Bus site more interactive.  Here are some unique events you could try to use: 
-	* [ ] `mouseover`
+	* [x] `mouseover`
 	* [ ] `keydown`
 	* [ ] `wheel`
-	* [ ] `drag / drop`
+	* [X] `drag / drop`
 	* [ ] `load`
 	* [ ] `focus`
 	* [ ] `resize`
@@ -47,8 +47,8 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 Using the 10 unique events, find ways to update the DOM in creative ways. For example you could change colors, animate objects, remove objects, etc.
 
-* [ ] Nest two similar events somewhere in the site and prevent the event propagation properly
-* [ ] Stop the navigation items from refreshing the page by using `preventDefault()`
+* [X] Nest two similar events somewhere in the site and prevent the event propagation properly
+* [X] Stop the navigation items from refreshing the page by using `preventDefault()`
 
 ## Stretch Task:
 
